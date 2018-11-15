@@ -24,8 +24,7 @@ This group project was created using data from the [The Movie DB API](https://ww
 `npm start`
 
 ## See it live!
-![A screen recording of the app]
-(https://github.com/djcaraballo/Movie-Tracker-Frontend/blob/master/Screenshots/ScreenVideo.gif "App Screen Recording")
+![A screen recording of the app](https://github.com/djcaraballo/Movie-Tracker-Frontend/blob/master/Screenshots/ScreenVideo.gif)
 
 ## Technologies Used
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
