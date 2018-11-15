@@ -13,9 +13,7 @@ This group project was created using data from the [The Movie DB API](https://ww
 
 ## Prerequisites 
 `git clone` the backend [repo](https://github.com/turingschool-examples/movie-tracker) and follow instructions to setup and deploy backend with Postgres.
-
 `npm install` 
-
 `npm start` to run the server
 
 ## Getting Started
@@ -39,7 +37,7 @@ Tested with:
 - Enzyme
 
 ## Project Requirements
-Project spec can be found [here](https://github.com/turingschool-examples/movie-tracker)
+Project spec can be found [here](https://github.com/turingschool-examples/movie-tracker).
 
 ## Wireframes 
 #### Login Screen
