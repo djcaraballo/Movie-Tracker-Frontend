@@ -25,14 +25,39 @@ This group project was created using data from the [The Movie DB API](https://ww
 
 ## See it live!
 ![A screen recording of the app]
-( "App screen recording")
+(https://github.com/djcaraballo/Movie-Tracker-Frontend/blob/master/Screenshots/ScreenVideo.mp4 "App Screen Recording")
+
+## Technologies Used
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Other technologies used:
+- React.js
+- React Router
+- Redux
+
+Tested with:
+- Jest
+- Enzyme
+
+## Project Requirements
+Project spec can be found [here](https://github.com/turingschool-examples/movie-tracker)
 
 ## Wireframes 
+#### Login Screen
 ![Alt text](https://github.com/marcusp619/movietracker-frontend/blob/iteration-2-DC/Wireframes/Login-Screen.png)
+
+#### Movies Screen
 ![Alt text](https://github.com/marcusp619/movietracker-frontend/blob/iteration-2-DC/Wireframes/Movies.png?raw=true)
+
+#### New User Sign In Screen
 ![Alt text](https://github.com/marcusp619/movietracker-frontend/blob/iteration-2-DC/Wireframes/New-User-Sign-Up-Screen.png?raw=true)
 
 ## Desktop View
+#### Main Screen
 ![MainScreen](https://github.com/marcusp619/movietracker-frontend/blob/master/Screenshots/Screen%20Shot%202018-10-31%20at%208.52.26%20AM.png?raw=true)
+
+#### Login Screen
 ![LoginScreen](https://github.com/marcusp619/movietracker-frontend/blob/master/Screenshots/Screen%20Shot%202018-10-31%20at%208.52.53%20AM.png?raw=true)
+
+#### New User Screen
 ![NewUser](https://github.com/marcusp619/movietracker-frontend/blob/master/Screenshots/Screen%20Shot%202018-10-31%20at%208.53.26%20AM.png?raw=true)
